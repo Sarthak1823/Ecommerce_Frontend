@@ -1,5 +1,5 @@
-const backendDomin = "https://ecommerce-backend-hyvf.onrender.com"
-// const backendDomin = "https://localhost:4000"
+// const backendDomin = "https://ecommerce-backend-hyvf.onrender.com"
+const backendDomin = "https://localhost:4000"
 const SummaryApi = {
     signUP : {
         url : `${backendDomin}/api/signup`,
